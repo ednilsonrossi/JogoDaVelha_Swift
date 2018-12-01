@@ -25,7 +25,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N4f-kC-TWJ">
                                 <rect key="frame" x="252" y="69" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn1x3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SJq-PL-AjP"/>
                                 </connections>
@@ -33,7 +32,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vgh-w7-28f">
                                 <rect key="frame" x="140" y="69" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn1x2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RKV-fU-w1E"/>
                                 </connections>
@@ -41,7 +39,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zng-9y-XNc">
                                 <rect key="frame" x="23" y="69" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn1x1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mbI-Gv-UZk"/>
                                 </connections>
@@ -49,7 +46,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CQ8-qT-mA6">
                                 <rect key="frame" x="23" y="178" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn2x1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="j4J-m1-5Kz"/>
                                 </connections>
@@ -57,7 +53,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Shy-kY-eCF">
                                 <rect key="frame" x="140" y="178" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn2x2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jIR-PS-4gQ"/>
                                 </connections>
@@ -65,7 +60,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Obf-Wg-nKa">
                                 <rect key="frame" x="252" y="178" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn2x3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QKe-6t-1G7"/>
                                 </connections>
@@ -73,7 +67,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zHb-LU-c6X">
                                 <rect key="frame" x="23" y="289" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn3x1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VCT-az-TgU"/>
                                 </connections>
@@ -81,7 +74,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sDA-Wx-hBd">
                                 <rect key="frame" x="140" y="289" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn3x2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AGN-0H-da2"/>
                                 </connections>
@@ -89,7 +81,6 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J3E-Zc-djU">
                                 <rect key="frame" x="252" y="289" width="94" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="ex"/>
                                 <connections>
                                     <action selector="actBtn3x3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KhY-CX-BGJ"/>
                                 </connections>
@@ -129,6 +120,5 @@
     </scenes>
     <resources>
         <image name="board" width="480" height="480"/>
-        <image name="ex" width="75" height="75"/>
     </resources>
 </document>
